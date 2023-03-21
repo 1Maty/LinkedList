@@ -1,5 +1,5 @@
 public class Node {
-    public Object data;
+    public int data;
     public Node next;
 
 
