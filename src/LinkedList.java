@@ -75,6 +75,7 @@
             while(coso!=null){
                 if(coso.next==null){
                     coso.next=ultimo;
+                    break;
                 }
                 coso=coso.next;
             }
