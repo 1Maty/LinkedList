@@ -1,6 +1,6 @@
 
     class LinkedList implements Lista {
-        public Node head= null;
+        private Node head= null;
         @Override
         public Object get(int position) {
             Node coso=head;
